@@ -1,6 +1,6 @@
 [global]
 
 [secret]
-api_key=
-locale=
-default_location=
+api_key=66dc774d5527fd0f8937644bc58d9b6a
+locale=en_US
+default_location=Bucharest
